@@ -1,2 +1,1 @@
 # react-course-wishlist
-# Wishlist
